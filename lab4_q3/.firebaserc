@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "md-lab4-1128-bsse6"
+  },
+  "targets": {
+    "md-lab4-1128-bsse6": {
+      "hosting": {
+        "question3": [
+          "lab4-question3"
+        ]
+      }
+    }
+  }
+}

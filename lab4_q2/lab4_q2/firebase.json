@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target":"question2",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
